@@ -1,29 +1,41 @@
-name: Eduardo Cerda-Sánchez
-favicon: null
-layout_spectrum: 0.24668
-typography_spectrum: 0.50444
 title: Ciudad Anónima
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.1057348
+  brandStrength: 0.5
+  lightness: 0.07706093
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.5
-  lightness: 0.09969364618882537
-  saturation: 0.5820550106000155
-  rhythmicContrast: 0.7636487693525851
-purpose: []
+  rhythmicContrast: 0.4820789
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Eduardo Cerda-Sánchez
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.50444
+layout_spectrum: 0.1057348
