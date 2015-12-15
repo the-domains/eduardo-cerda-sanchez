@@ -16,8 +16,8 @@ keywords:
   - dificultades
   - tiempo
 description: 'This images talk about the History of abandoned Railway Industrial Heritage in Chile, an great odyssey in XIX century.'
-datePublished: '2015-12-15T09:59:30.390Z'
-dateModified: '2015-12-15T09:59:26.021Z'
+datePublished: '2015-12-15T10:05:14.472Z'
+dateModified: '2015-12-15T10:05:10.851Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Chilean Trasandine Railway</h1><p>This images talk about the History of abandoned Railway Industrial Heritage in Chile&amp;comma; an great odyssey in XIX century&amp;period;</p><img src="https://shorthand-social.imgix.net/prod/story/jgPNwPoNZiY/media/37193f109a2f11e5a74fc144436a5895/original.jpg?w=1500&amp;h=1500&amp;fit=clip&amp;fm=jpg&amp;q=75" /></article>
+<article style=""><h1>The Chilean Trasandine Railway</h1><p>This images talk about the History of abandoned Railway Industrial Heritage in Chile, an great odyssey in XIX century.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ee5d2e053cde8067684dec9b9f6c2687319c166.jpg" /></article>
