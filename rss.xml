@@ -4,21 +4,21 @@
         <description><![CDATA[Fotografías]]></description>
         <link>https://thegrid.ai/eduardo-cerda-sanchez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 09:29:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2015 09:30:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eduardo-cerda-sanchez/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Historia de Un Olvido]]></title>
+            <description><![CDATA[<article><h1>Historia de Un Olvido</h1><p>Ferrocarril Trasandino</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd9df241428c2fdee1f78af39ca0f992d0537ac9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/eduardo-cerda-sanchez/historia-de-un-olvido/index.html</link>
+            <guid isPermaLink="false">06a4ffbb-914d-4cc9-8d78-f1a54c5bf127</guid>
+            <pubDate>Tue, 15 Dec 2015 09:29:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cuba]]></title>
             <description><![CDATA[<article><h1>Cuba</h1><p>La Habana, Cuba. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90f1cb5cc53e2268e30ca29c5e72493ff6c5321b.jpg"></article>]]></description>
             <link>https://thegrid.ai/eduardo-cerda-sanchez/cuba/index.html</link>
             <guid isPermaLink="false">65bef4f5-2095-4b43-aecf-b9a9300a86f7</guid>
             <pubDate>Tue, 15 Dec 2015 09:24:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Historia de Un Olvido]]></title>
-            <description><![CDATA[<article><h1>Historia de Un Olvido</h1><p>Ferrocarril Trasandino</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd9df241428c2fdee1f78af39ca0f992d0537ac9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/eduardo-cerda-sanchez/historia-de-un-olvido/index.html</link>
-            <guid isPermaLink="false">06a4ffbb-914d-4cc9-8d78-f1a54c5bf127</guid>
-            <pubDate>Tue, 15 Dec 2015 09:29:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
