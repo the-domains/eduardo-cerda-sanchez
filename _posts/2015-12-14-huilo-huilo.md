@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-15T09:13:51.621Z'
-dateModified: '2015-12-15T05:57:39.132Z'
+datePublished: '2015-12-15T09:16:21.219Z'
+dateModified: '2015-12-15T09:14:03.429Z'
 author: []
 related: []
 app_links:
@@ -18,10 +18,10 @@ app_links:
 title: Huilo Huilo
 authors: []
 publisher:
-  favicon: 'https://s.yimg.com/pw/favicon.ico'
   name: Flickr
   domain: www.flickr.com
   url: 'http://flickr.com/'
+  favicon: 'https://s.yimg.com/pw/favicon.ico'
 sourcePath: _posts/2015-12-14-huilo-huilo.md
 published: true
 url: huilo-huilo/index.html
