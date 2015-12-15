@@ -16,12 +16,12 @@ keywords:
   - tab
   - photography
 description: A story on Exposure
-datePublished: '2015-12-15T09:44:32.810Z'
-dateModified: '2015-12-15T09:44:25.258Z'
+datePublished: '2015-12-15T09:50:47.903Z'
+dateModified: '2015-12-15T09:46:57.550Z'
 author: []
 related: []
 app_links: []
-title: Eduardo Cerda-Sánchez - Zona Saturada on Exposure
+title: Zona Saturada on Exposure
 sourcePath: _posts/2015-12-14-eduardo-cerda-sanchez-zona-saturada-on-exposure.md
 published: true
 authors: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Zona Saturada on Exposure</h1><p>A story on Exposure</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6fc374740cdf26e9d51456db61e9578b29b5b5a.jpg" /></article>
+<article style=""><h1>Zona Saturada </h1><p>A story on Exposure</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6fc374740cdf26e9d51456db61e9578b29b5b5a.jpg" /></article>
