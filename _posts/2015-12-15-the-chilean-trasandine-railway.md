@@ -16,8 +16,8 @@ keywords:
   - dificultades
   - tiempo
 description: 'This images talk about the History of abandoned Railway Industrial Heritage in Chile, an great odyssey in XIX century.'
-datePublished: '2015-12-15T10:05:14.472Z'
-dateModified: '2015-12-15T10:05:10.851Z'
+datePublished: '2015-12-15T10:09:56.736Z'
+dateModified: '2015-12-15T10:09:51.202Z'
 author: []
 related: []
 app_links: []
