@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://social.shorthand.com/AGENDAFOTO/3CcCgGdkSic/zona-saturada'
+hasPage: true
+inNav: true
 inLanguage: es
 starred: true
 keywords: []
 description: 'Recordando el daño causado por el derrame de petróleo en la Bahía de Quintero en septiembre del 2014, grupos ambientalistas realizaron una marcha por las calles de la ciudad hasta su Plaza de Armas, lugar donde se concluyó con un espectáculo al aire libre.'
-datePublished: '2015-12-15T10:31:47.091Z'
-dateModified: '2015-12-15T10:31:39.848Z'
+datePublished: '2015-12-15T10:34:33.380Z'
+dateModified: '2015-12-15T10:34:31.040Z'
 author: []
 related: []
 app_links: []
@@ -21,6 +20,7 @@ publisher:
   domain: social.shorthand.com
   url: 'https://social.shorthand.com'
   favicon: 'https://social.shorthand.com/images/favicon.png'
+url: zona-saturada/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
