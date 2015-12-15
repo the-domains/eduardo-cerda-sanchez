@@ -4,7 +4,7 @@
         <description><![CDATA[Fotografías]]></description>
         <link>https://thegrid.ai/eduardo-cerda-sanchez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 10:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2015 10:24:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eduardo-cerda-sanchez/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Chilean Trasandine Railway]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/eduardo-cerda-sanchez/cuba/index.html</link>
             <guid isPermaLink="false">65bef4f5-2095-4b43-aecf-b9a9300a86f7</guid>
             <pubDate>Tue, 15 Dec 2015 10:12:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zona Saturada]]></title>
+            <description><![CDATA[<article><h1>Zona Saturada</h1><p>Recordando el daño causado por el derrame de petróleo en la Bahía de Quintero en septiembre del 2014, grupos ambientalistas realizaron una marcha por las calles de la ciudad hasta su Plaza de Armas, lugar donde se concluyó con un espectáculo al aire libre.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccd2b77f6591ba631b9a2dfebdc25d1f134e26dd.jpg"></article>]]></description>
+            <link>https://social.shorthand.com/AGENDAFOTO/3CcCgGdkSic/zona-saturada</link>
+            <guid isPermaLink="false">1b1d9f97-0980-47dc-b699-f9488ffe18ae</guid>
+            <pubDate>Tue, 15 Dec 2015 10:24:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
