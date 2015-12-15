@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Eduardo Cerda-Sánchez
 favicon: null
+name: Eduardo Cerda-Sánchez
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.50444
-layout_spectrum: 0.3763441
+layout_spectrum: 1
