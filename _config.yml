@@ -1,7 +1,7 @@
 name: Eduardo Cerda-Sánchez
 favicon: null
-layout_spectrum: 0.9578978093340993
-typography_spectrum: 0.7049171451944858
+layout_spectrum: 0.24668
+typography_spectrum: 0.50444
 title: Ciudad Anónima
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.09259813674725592
+  brandStrength: 0.5
   lightness: 0.09969364618882537
   saturation: 0.5820550106000155
   rhythmicContrast: 0.7636487693525851
