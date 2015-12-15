@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://eduardocerda.exposure.co'
-  name: Exposure
-  favicon: 'https://eduardocerda.exposure.co/favicon.ico'
-  domain: eduardocerda.exposure.co
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - exposure
   - stories
@@ -18,17 +16,21 @@ keywords:
   - tab
   - photography
 description: A story on Exposure
-inLanguage: en
+datePublished: '2015-12-15T09:20:33.935Z'
+dateModified: '2015-12-15T09:20:30.433Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://eduardocerda.exposure.co/zona-saturada'
 title: Eduardo Cerda-Sánchez - Zona Saturada on Exposure
-datePublished: '2015-12-14T23:36:57.462Z'
-dateModified: '2015-12-14T22:06:04.774Z'
 sourcePath: _posts/2015-12-14-eduardo-cerda-sanchez-zona-saturada-on-exposure.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Exposure
+  domain: eduardocerda.exposure.co
+  url: 'https://eduardocerda.exposure.co'
+  favicon: 'https://eduardocerda.exposure.co/favicon.ico'
+url: eduardo-cerda-sanchez-zona-saturada-on-exposure/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
