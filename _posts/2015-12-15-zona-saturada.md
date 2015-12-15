@@ -1,26 +1,32 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://social.shorthand.com'
-  name: Shorthand
-  favicon: 'https://social.shorthand.com/images/favicon.png'
-  domain: social.shorthand.com
-keywords: []
-description: 'Recordando el daño causado por el derrame de petróleo en la Bahía de Quintero en septiembre del 2014, grupos ambientalistas realizaron una marcha por las calles de la ciudad hasta su Plaza de Armas, lugar donde se concluyó con un espectáculo al aire libre.'
-inLanguage: es
-app_links: []
-isBasedOnUrl: 'https://social.shorthand.com/AGENDAFOTO/3CcCgGdkSic/zona-saturada'
-title: Zona Saturada
-datePublished: '2015-12-15T10:24:19.666Z'
-dateModified: '2015-12-15T10:23:08.264Z'
-sourcePath: _posts/2015-12-15-zona-saturada.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'https://social.shorthand.com/AGENDAFOTO/3CcCgGdkSic/zona-saturada'
+inLanguage: es
+starred: true
+keywords: []
+description: 'Recordando el daño causado por el derrame de petróleo en la Bahía de Quintero en septiembre del 2014, grupos ambientalistas realizaron una marcha por las calles de la ciudad hasta su Plaza de Armas, lugar donde se concluyó con un espectáculo al aire libre.'
+datePublished: '2015-12-15T10:31:47.091Z'
+dateModified: '2015-12-15T10:31:39.848Z'
+author: []
+related: []
+app_links: []
+title: Zona Saturada
+sourcePath: _posts/2015-12-15-zona-saturada.md
+published: true
+authors: []
+publisher:
+  name: Shorthand
+  domain: social.shorthand.com
+  url: 'https://social.shorthand.com'
+  favicon: 'https://social.shorthand.com/images/favicon.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Zona Saturada</h1><p>Recordando el daño causado por el derrame de petróleo en la Bahía de Quintero en septiembre del 2014&amp;comma; grupos ambientalistas realizaron una marcha por las calles de la ciudad hasta su Plaza de Armas&amp;comma; lugar donde se concluyó con un espectáculo al aire libre&amp;period;</p><img src="https://shorthand-social.imgix.net/prod/story/3CcCgGdkSic/media/b97053d09b7a11e5a74fc144436a5895/original.jpg?w=1500&amp;h=1500&amp;fit=clip&amp;fm=jpg&amp;q=75" /></article>
+# Zona Saturada
+
+Quintero y Puchuncaví, dos comunas de la Región de Valparaíso, en la zona central de Chile, están consideradas como una de las zonas más contaminadas por acción de empresas mineras. A esto se agrega varios derrames de petróleo ocurridos en la Bahía de Quintero.
+
+<article style=""><h1>Zona Saturada</h1><p>Recordando el daño causado por el derrame de petróleo en la Bahía de Quintero en septiembre del 2014, grupos ambientalistas realizaron una marcha por las calles de la ciudad hasta su Plaza de Armas, lugar donde se concluyó con un espectáculo al aire libre.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccd2b77f6591ba631b9a2dfebdc25d1f134e26dd.jpg" /></article>
