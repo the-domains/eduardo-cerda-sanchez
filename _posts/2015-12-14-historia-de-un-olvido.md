@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: es
-starred: false
+starred: true
 keywords: []
 description: 'Texto por Marcelo Sanhueza. Desde mucho tiempo existía la visión de un proyecto colosal, uno que permitiera romper el claustro de un país, entre extenso océano y una cordillera indomable. Empapados por el espíritu de la modernidad y la promesa de un mejor porvenir, surgieron diversos intentos por extender nuestros caminos hacia Argentina, alimentando el sueño de salir el mundo.'
-datePublished: '2015-12-15T09:29:35.482Z'
-dateModified: '2015-12-15T09:29:32.381Z'
+datePublished: '2015-12-15T09:29:45.908Z'
+dateModified: '2015-12-15T09:29:41.338Z'
 author: []
 related: []
 app_links: []
