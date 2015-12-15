@@ -4,21 +4,21 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://slate.adobe.com/cp/5twO3/'
 inLanguage: es
-starred: false
+starred: true
 keywords: []
 description: 'Texto por Marcelo Sanhueza. Desde mucho tiempo existía la visión de un proyecto colosal, uno que permitiera romper el claustro de un país, entre extenso océano y una cordillera indomable. Empapados por el espíritu de la modernidad y la promesa de un mejor porvenir, surgieron diversos intentos por extender nuestros caminos hacia Argentina, alimentando el sueño de salir el mundo.'
-datePublished: '2015-12-15T09:13:18.039Z'
-dateModified: '2015-12-15T05:57:39.127Z'
+datePublished: '2015-12-15T09:15:25.203Z'
+dateModified: '2015-12-15T09:15:13.235Z'
 author: []
 related: []
 app_links: []
 title: Historia de Un Olvido
 authors: []
 publisher:
-  favicon: 'https://d6uhzlpot4xwe.cloudfront.net/runtime/1.16/images/favicon.ico'
   name: Adobe Slate
   domain: slate.adobe.com
   url: 'https://slate.adobe.com'
+  favicon: 'https://d6uhzlpot4xwe.cloudfront.net/runtime/1.16/images/favicon.ico'
 sourcePath: _posts/2015-12-14-historia-de-un-olvido.md
 published: true
 _context: 'http://schema.org'
