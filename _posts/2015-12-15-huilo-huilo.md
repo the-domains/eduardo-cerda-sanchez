@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.flickr.com/photos/ciudadanonima/sets/72157658342316712/'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-15T12:44:25.206Z'
-dateModified: '2015-12-15T12:44:21.846Z'
+datePublished: '2015-12-16T22:07:51.927Z'
+dateModified: '2015-12-16T22:07:48.617Z'
 author: []
 related: []
 app_links:
@@ -25,6 +24,7 @@ publisher:
   domain: www.flickr.com
   url: 'http://flickr.com/'
   favicon: 'https://s.yimg.com/pw/favicon.ico'
+url: huilo-huilo/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
