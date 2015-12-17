@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T12:46:19.746Z'
-dateModified: '2015-12-17T12:46:14.973Z'
+datePublished: '2015-12-17T13:15:27.997Z'
+dateModified: '2015-12-17T13:15:10.363Z'
 author: []
 related: []
 app_links: []
@@ -25,6 +25,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/888f1cf2-cdc1-42af-a347-873e5e9f0a10.jpg)
-
 <article style=""><h1>Cuba</h1></article>
