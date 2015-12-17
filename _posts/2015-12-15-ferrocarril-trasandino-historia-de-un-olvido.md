@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://slate.adobe.com/cp/5twO3/'
+hasPage: true
+inNav: true
 inLanguage: es
 starred: false
 keywords: []
 description: 'Texto por Marcelo Sanhueza. Desde mucho tiempo existía la visión de un proyecto colosal, uno que permitiera romper el claustro de un país, entre extenso océano y una cordillera indomable. Empapados por el espíritu de la modernidad y la promesa de un mejor porvenir, surgieron diversos intentos por extender nuestros caminos hacia Argentina, alimentando el sueño de salir el mundo.'
-datePublished: '2015-12-17T11:51:16.555Z'
-dateModified: '2015-12-17T11:50:50.295Z'
+datePublished: '2015-12-17T12:16:42.567Z'
+dateModified: '2015-12-17T12:16:31.285Z'
 author: []
 related: []
 app_links: []
@@ -21,6 +20,7 @@ publisher:
   domain: slate.adobe.com
   url: 'https://slate.adobe.com'
   favicon: 'https://d6uhzlpot4xwe.cloudfront.net/runtime/1.16/images/favicon.ico'
+url: ferrocarril-trasandino-historia-de-un-olvido/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
