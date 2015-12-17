@@ -6,12 +6,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T12:45:14.990Z'
-dateModified: '2015-12-17T12:45:11.585Z'
+datePublished: '2015-12-17T12:46:19.746Z'
+dateModified: '2015-12-17T12:46:14.973Z'
 author: []
 related: []
 app_links: []
-title: Adobe Slate
+title: CUBA
 sourcePath: _posts/2015-12-17-adobe-slate.md
 published: true
 authors: []
