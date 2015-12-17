@@ -4,21 +4,21 @@
         <description><![CDATA[Eduardo Cerda-Sánchez Fotografías]]></description>
         <link>https://thegrid.ai/eduardo-cerda-sanchez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 13:45:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 13:52:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eduardo-cerda-sanchez/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Cuba]]></title>
-            <description><![CDATA[<article><h1>Cuba</h1><p>A story told with Slate.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/636cdc653ba85e542f49347bd0954405433ed07c.jpg"></article>]]></description>
-            <link>https://slate.adobe.com/cp/SeTuL/</link>
-            <guid isPermaLink="false">ac36ec32-6be7-4c92-ae75-336f7396edd1</guid>
-            <pubDate>Thu, 17 Dec 2015 13:45:32 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Ferrocarril Trasandino Historia de Un Olvido]]></title>
             <description><![CDATA[<article><h1>Ferrocarril Trasandino Historia de Un Olvido</h1><p>Texto por Marcelo Sanhueza. Desde mucho tiempo existía la visión de un proyecto colosal, uno que permitiera romper el claustro de un país, entre extenso océano y una cordillera indomable. Empapados por el espíritu de la modernidad y la promesa de un mejor porvenir, surgieron diversos intentos por extender nuestros caminos hacia Argentina, alimentando el sueño de salir el mundo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d76d7f63ea995f1e2b00869ed32cf15350c1e619.jpg"></article>]]></description>
             <link>https://slate.adobe.com/cp/5twO3/</link>
             <guid isPermaLink="false">2c1caa4d-5e91-4c53-b163-f368dc67c04f</guid>
-            <pubDate>Thu, 17 Dec 2015 13:34:08 GMT</pubDate>
+            <pubDate>Thu, 17 Dec 2015 13:52:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cuba]]></title>
+            <description><![CDATA[<article><h1>Cuba</h1><p>A story told with Slate.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d31c3f0e964b24354c21e2f2d5ed07c66197a58e.jpg"></article>]]></description>
+            <link>https://slate.adobe.com/cp/SeTuL/</link>
+            <guid isPermaLink="false">ac36ec32-6be7-4c92-ae75-336f7396edd1</guid>
+            <pubDate>Thu, 17 Dec 2015 13:45:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
