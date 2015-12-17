@@ -6,8 +6,8 @@ inLanguage: es
 starred: false
 keywords: []
 description: 'Recordando el daño causado por el derrame de petróleo en la Bahía de Quintero en septiembre del 2014, grupos ambientalistas realizaron una marcha por las calles de la ciudad hasta su Plaza de Armas, lugar donde se concluyó con un espectáculo al aire libre.'
-datePublished: '2015-12-16T21:17:34.760Z'
-dateModified: '2015-12-16T21:17:10.795Z'
+datePublished: '2015-12-17T11:51:37.270Z'
+dateModified: '2015-12-17T11:51:03.785Z'
 author: []
 related: []
 app_links: []
