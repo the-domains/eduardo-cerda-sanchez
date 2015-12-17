@@ -1,25 +1,30 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://slate.adobe.com'
-  name: Adobe
-  favicon: 'https://slate.adobe.com/images/slatefavicon.ico'
-  domain: slate.adobe.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
 keywords: []
 description: ''
+datePublished: '2015-12-17T12:45:14.990Z'
+dateModified: '2015-12-17T12:45:11.585Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://slate.adobe.com/#design/slate/3f1c8999-024a-4aac-9c55-0a629eedd522'
 title: Adobe Slate
-datePublished: '2015-12-17T12:42:15.122Z'
-dateModified: '2015-12-17T12:36:44.256Z'
 sourcePath: _posts/2015-12-17-adobe-slate.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Adobe
+  domain: slate.adobe.com
+  url: 'https://slate.adobe.com'
+  favicon: 'https://slate.adobe.com/images/slatefavicon.ico'
+url: adobe-slate/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Adobe Slate</h1><p></p></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/888f1cf2-cdc1-42af-a347-873e5e9f0a10.jpg)
+
+<article style=""><h1>Cuba</h1></article>
