@@ -1,7 +1,7 @@
 name: Eduardo Cerda-Sánchez
 favicon: null
-layout_spectrum: 0.2497
-typography_spectrum: 0.50444
+layout_spectrum: 0.50453
+typography_spectrum: 0.75248
 title: Eduardo Cerda-Sánchez Fotografías
 collections:
   - index:
@@ -34,7 +34,7 @@ color:
     - '#4b4b4b'
     - '#232323'
     - '#ececec'
-  brandStrength: 0.125
+  brandStrength: 0.5
   lightness: 0.07706093
   saturation: 0.1057348
   rhythmicContrast: 0.4820789
