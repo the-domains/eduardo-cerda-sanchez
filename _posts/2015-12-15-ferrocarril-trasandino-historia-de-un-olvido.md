@@ -7,8 +7,8 @@ inLanguage: es
 starred: false
 keywords: []
 description: 'Texto por Marcelo Sanhueza. Desde mucho tiempo existía la visión de un proyecto colosal, uno que permitiera romper el claustro de un país, entre extenso océano y una cordillera indomable. Empapados por el espíritu de la modernidad y la promesa de un mejor porvenir, surgieron diversos intentos por extender nuestros caminos hacia Argentina, alimentando el sueño de salir el mundo.'
-datePublished: '2015-12-17T13:58:25.851Z'
-dateModified: '2015-12-17T13:58:21.807Z'
+datePublished: '2015-12-20T21:05:49.807Z'
+dateModified: '2015-12-20T21:05:45.630Z'
 author: []
 related: []
 app_links: []
@@ -25,4 +25,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Ferrocarril Trasandino Historia de Un Olvido</h1><p>Texto por Marcelo Sanhueza. Desde mucho tiempo existía la visión de un proyecto colosal, uno que permitiera romper el claustro de un país, entre extenso océano y una cordillera indomable. Empapados por el espíritu de la modernidad y la promesa de un mejor porvenir, surgieron diversos intentos por extender nuestros caminos hacia Argentina, alimentando el sueño de salir el mundo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e9dce00aea51f3ec9731c338d79fae3e4d7bb3a.jpg" /></article>
+<article style=""><h1>Ferrocarril Trasandino Historia de Un Olvido</h1><p>Texto por Marcelo Sanhueza. Desde mucho tiempo existía la visión de un proyecto colosal, uno que permitiera romper el claustro de un país, entre extenso océano y una cordillera indomable. Empapados por el espíritu de la modernidad y la promesa de un mejor porvenir, surgieron diversos intentos por extender nuestros caminos hacia Argentina, alimentando el sueño de salir el mundo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38a58c154de00b60aed255f7c194f396b7e163c9.jpg" /></article>
