@@ -5,9 +5,9 @@ inNav: true
 inLanguage: es
 starred: false
 keywords: []
-description: 'Texto por Marcelo Sanhueza. Desde mucho tiempo existía la visión de un proyecto colosal, uno que permitiera romper el claustro de un país, entre extenso océano y una cordillera indomable. Empapados por el espíritu de la modernidad y la promesa de un mejor porvenir, surgieron diversos intentos por extender nuestros caminos hacia Argentina, alimentando el sueño de salir el mundo.'
-datePublished: '2015-12-20T21:14:32.636Z'
-dateModified: '2015-12-20T21:14:21.944Z'
+description: 'Trasandine Railway: Forgetting Memories'
+datePublished: '2015-12-20T21:24:28.382Z'
+dateModified: '2015-12-20T21:24:04.330Z'
 author: []
 related: []
 app_links: []
@@ -26,4 +26,6 @@ _type: MediaObject
 
 ---
 # Ferrocarril Trasandino
+
+Imágenes que documentan el actual estado de uno de los cruces ferroviarios de la era industrial en Latinoamérica
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97a88ef5-5c29-4c74-afa1-a878954d1d7f.jpg)
