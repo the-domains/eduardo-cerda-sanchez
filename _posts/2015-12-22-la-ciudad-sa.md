@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-23T16:53:15.198Z'
-dateModified: '2015-12-23T16:53:11.871Z'
+datePublished: '2015-12-23T19:04:20.246Z'
+dateModified: '2015-12-23T18:50:50.648Z'
 author: []
 title: La Ciudad S.A.
 sourcePath: _posts/2015-12-22-la-ciudad-sa.md
@@ -26,5 +26,3 @@ _type: Article
 # La Ciudad S.A.
 
 <article style=""><h1>El Asalto al Espacio Público </h1><p>Simulacro y Relaciones Fugaces</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/133136f3f190714ee0a3a17c2011a402c7a5c945.jpg" /></article>
-
-Simulacro
