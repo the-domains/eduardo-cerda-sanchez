@@ -21,8 +21,8 @@ app_links:
     type: iphone
 isBasedOnUrl: 'https://strh.se/XVMs'
 title: 'San Francisco, Los Andes.'
-datePublished: '2015-12-23T01:07:17.858Z'
-dateModified: '2015-12-23T00:35:17.318Z'
+datePublished: '2015-12-23T01:18:15.467Z'
+dateModified: '2015-12-23T01:07:17.858Z'
 sourcePath: _posts/2015-12-23-san-francisco-los-andes.md
 published: true
 inFeed: true
