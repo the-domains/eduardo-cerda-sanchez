@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'urn:uuid:19d43c34-3511-4998-b5fd-392a8b2419cb'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-23T19:04:20.246Z'
-dateModified: '2015-12-23T18:50:50.648Z'
+datePublished: '2016-02-29T01:57:52.916Z'
+dateModified: '2016-02-29T01:57:52.608Z'
 author: []
 title: La Ciudad S.A.
 sourcePath: _posts/2015-12-22-la-ciudad-sa.md
@@ -19,6 +18,7 @@ publisher:
   domain: ''
   url: null
   favicon: null
+url: la-ciudad-sa/index.html
 _context: 'http://schema.org'
 _type: Article
 
