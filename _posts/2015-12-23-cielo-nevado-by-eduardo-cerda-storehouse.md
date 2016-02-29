@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.storehouse.co/stories/t0vc7'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'San Francisco, Los Andes, Chile.'
-datePublished: '2015-12-23T19:04:05.531Z'
-dateModified: '2015-12-23T18:53:55.314Z'
+datePublished: '2016-02-29T02:04:27.375Z'
+dateModified: '2016-02-29T01:57:39.496Z'
 author: []
 related: []
 app_links:
@@ -31,6 +30,7 @@ publisher:
   domain: www.storehouse.co
   url: 'https://www.storehouse.co'
   favicon: 'https://d31wv5omrnb6fi.cloudfront.net/favicon-2dbf647e.png'
+url: cielo-nevado-by-eduardo-cerda-storehouse/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
