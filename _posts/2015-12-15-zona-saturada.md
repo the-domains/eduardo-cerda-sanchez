@@ -6,8 +6,8 @@ inLanguage: es
 starred: false
 keywords: []
 description: 'Recordando el daño causado por el derrame de petróleo en la Bahía de Quintero en septiembre del 2014, grupos ambientalistas realizaron una marcha por las calles de la ciudad hasta su Plaza de Armas, lugar donde se concluyó con un espectáculo al aire libre.'
-datePublished: '2016-03-06T16:37:27.705Z'
-dateModified: '2016-03-06T16:36:48.933Z'
+datePublished: '2016-03-06T20:38:00.750Z'
+dateModified: '2016-03-06T16:40:39.289Z'
 author: []
 related: []
 app_links: []
@@ -25,7 +25,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Zona Saturada
+## Quintero
 
 Quintero y Puchuncaví, dos comunas de la Región de Valparaíso, en la zona central de Chile, están consideradas como una de las zonas más contaminadas por acción de empresas mineras. A esto se agrega varios derrames de petróleo ocurridos en la Bahía de Quintero
 
