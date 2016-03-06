@@ -5,13 +5,13 @@ inNav: true
 inLanguage: es
 starred: false
 keywords: []
-description: 'Recordando el daño causado por el derrame de petróleo en la Bahía de Quintero en septiembre del 2014, grupos ambientalistas realizaron una marcha por las calles de la ciudad hasta su Plaza de Armas, lugar donde se concluyó con un espectáculo al aire libre.'
-datePublished: '2016-03-06T21:49:22.888Z'
-dateModified: '2016-03-06T21:44:33.458Z'
+description: ''
+datePublished: '2016-03-06T21:50:17.260Z'
+dateModified: '2016-03-06T21:49:40.499Z'
 author: []
 related: []
 app_links: []
-title: Zona Saturada
+title: ''
 sourcePath: _posts/2015-12-15-zona-saturada.md
 published: true
 authors: []
