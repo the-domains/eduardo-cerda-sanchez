@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'San Francisco, Los Andes, Chile.'
-datePublished: '2016-03-06T20:37:39.218Z'
-dateModified: '2016-03-06T20:37:38.642Z'
+datePublished: '2016-03-06T20:45:48.387Z'
+dateModified: '2016-03-06T20:41:54.285Z'
 author: []
 related: []
 app_links:
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a733f234-5c37-483c-b56a-32f1bf06613d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ddbeee75c77bfbe83286e9175c93ed2c51809229.jpg)
